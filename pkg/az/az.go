@@ -3,7 +3,7 @@ package az
 import (
 	"os/exec"
 
-	"github.com/aronreisx/go-intro/pkg/app"
+	"github.com/aronreisx/senses-cli/pkg/app"
 )
 
 type CreatePullRequestArgs struct {

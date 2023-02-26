@@ -4,9 +4,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/aronreisx/go-intro/pkg/app"
-	"github.com/aronreisx/go-intro/pkg/az"
-	"github.com/aronreisx/go-intro/pkg/git"
+	"github.com/aronreisx/senses-cli/pkg/app"
+	"github.com/aronreisx/senses-cli/pkg/az"
+	"github.com/aronreisx/senses-cli/pkg/git"
 )
 
 type Option string
