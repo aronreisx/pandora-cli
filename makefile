@@ -1,3 +1,3 @@
 .PHONY: build
 build:
-	go build -o handy main.go
+	go build -o senses cmd/senses/main.go
